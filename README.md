@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 ## Hash Table
