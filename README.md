@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
 | ------- |
