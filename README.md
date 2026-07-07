@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
