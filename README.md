@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0162-find-peak-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0231-power-of-two) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
