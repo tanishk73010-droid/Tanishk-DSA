@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
