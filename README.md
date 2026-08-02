@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
