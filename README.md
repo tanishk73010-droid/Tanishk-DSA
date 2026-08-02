@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
