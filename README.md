@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
