@@ -109,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
