@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0342-power-of-four) |
 ## Divide and Conquer
