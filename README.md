@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0137-single-number-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
