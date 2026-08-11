@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
