@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2643-row-with-maximum-ones](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/2643-row-with-maximum-ones) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
