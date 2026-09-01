@@ -7,12 +7,12 @@ class Solution {
             int mid = i + (j - i) / 2;
             
             if (arr[mid] < arr[mid + 1]) {
-                i = mid + 1; // Move past mid
+                i = mid + 1; 
             } else {
-                j = mid;     // Keep mid as a potential peak
+                j = mid;     
             }
         }
         
-        return i; // i and j meet at the peak index
+        return i; // 
     }
 }
