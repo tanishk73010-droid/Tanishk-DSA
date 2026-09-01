@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanishk73010-droid/Tanishk-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
